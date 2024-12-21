@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,600">
+  <displayList>
+    <graph id="n2_wyth" name="n2" xy="0,0" size="800,600" type="rect" lineSize="0" fillColor="#40ffcc66">
+      <relation target="" sidePair="width-width,height-height"/>
+    </graph>
+    <graph id="n0_wyth" name="n0" xy="89,250" size="621,100" type="rect" lineSize="0" fillColor="#ff6699ff">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </graph>
+    <text id="n1_wyth" name="n1" xy="400,300" pivot="0.5,0.5" anchor="true" size="524,82" fontSize="62" color="#ffffff" align="center" vAlign="middle" autoSize="none" text="鼠鼠寄了">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </text>
+    <component id="n3_wyth" name="btn" src="wyth1" fileName="component/Btn.xml" xy="750,0">
+      <relation target="" sidePair="right-right,top-top"/>
+    </component>
+  </displayList>
+  <transition name="tran1">
+    <item time="0" type="Rotation" target="n1_wyth" tween="true" startValue="0" endValue="360" duration="24" repeat="1000"/>
+  </transition>
+</component>

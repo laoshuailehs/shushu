@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="9179p8ws">
+  <resources>
+    <component id="ol3l0" name="Shushu.xml" path="/" exported="true"/>
+    <component id="wyth1" name="Btn.xml" path="/component/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>
