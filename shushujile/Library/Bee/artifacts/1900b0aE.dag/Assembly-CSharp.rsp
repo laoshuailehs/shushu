@@ -346,8 +346,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/AddRes/Layer Lab/Scripts/PanelControl.cs"
+"Assets/AddRes/Layer Lab/Scripts/PanelView.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Base/BaseBinder.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Base/UI_Shushu.cs"
+"Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/LoginBinder.cs"
+"Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/UI_LoginMain.cs"
 "Assets/FairyGUI/Scripts/Core/BlendMode.cs"
 "Assets/FairyGUI/Scripts/Core/CaptureCamera.cs"
 "Assets/FairyGUI/Scripts/Core/Container.cs"
@@ -506,6 +510,7 @@
 "Assets/FairyGUI/Scripts/Utils/XMLList.cs"
 "Assets/FairyGUI/Scripts/Utils/XMLUtils.cs"
 "Assets/FairyGUI/Scripts/Utils/ZipReader.cs"
+"Assets/Scripts/LoginUIPanel/LoginUI.cs"
 "Assets/Scripts/ShushuUIPanel/ShushuUI.cs"
 -langversion:9.0
 
