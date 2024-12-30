@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="tzpmlwov">
+  <resources>
+    <component id="egb00" name="LoginMain.xml" path="/" exported="true"/>
+    <image id="egb02" name="Button01_Demo_Yellow.png" path="/pic/"/>
+    <component id="egb03" name="btn_login.xml" path="/component/"/>
+    <image id="g4eh6" name="00_Lobby_Tutorial_Message.png" path="/bg/"/>
+    <image id="g4eh7" name="00_Popup_Rate.png" path="/bg/"/>
+    <image id="g4eh8" name="01_LobbyMain.png" path="/bg/"/>
+    <image id="g4eh9" name="01_Lobby_Menu.png" path="/bg/"/>
+    <image id="g4eha" name="01_Lobby_UserInfo.png" path="/bg/"/>
+    <image id="g4ehb" name="02_Offline_Reward.png" path="/bg/"/>
+    <image id="g4ehc" name="03_Character_List.png" path="/bg/"/>
+    <image id="g4ehd" name="04_Equipment.png" path="/bg/"/>
+    <image id="g4ehe" name="04_Equipment_Popup_Detail.png" path="/bg/"/>
+    <image id="g4ehf" name="05_Character_Blue.png" path="/bg/"/>
+    <image id="g4ehg" name="05_Character_Purple.png" path="/bg/"/>
+    <image id="g4ehh" name="06_Misson.png" path="/bg/"/>
+    <image id="g4ehi" name="07_Reward.png" path="/bg/"/>
+    <image id="g4ehj" name="08_Battel_VS.png" path="/bg/"/>
+    <image id="g4ehk" name="99_Setting.png" path="/bg/"/>
+    <image id="g4ehl" name="ItemIcon_Anvil.png" path="/pic/"/>
+    <image id="g4ehm" name="ItemIcon_Helmet.png" path="/pic/"/>
+    <image id="g4ehn" name="ItemIcon_Key.png" path="/pic/"/>
+    <image id="g4eho" name="ItemIcon_Letter.png" path="/pic/"/>
+    <image id="g4ehp" name="ItemIcon_Map.png" path="/pic/"/>
+    <image id="g4ehq" name="ItemIcon_Medalstand.png" path="/pic/"/>
+    <image id="g4ehr" name="ItemIcon_Megaphone.png" path="/pic/"/>
+    <image id="g4ehs" name="ItemIcon_MemoPad.png" path="/pic/"/>
+    <image id="g4eht" name="ItemIcon_Scroll.png" path="/pic/"/>
+    <image id="g4ehu" name="ItemIcon_Shop01.png" path="/pic/"/>
+    <image id="g4ehv" name="ItemIcon_Shop02.png" path="/pic/"/>
+    <image id="g4ehw" name="ItemIcon_Skull.png" path="/pic/"/>
+    <image id="g4ehx" name="ItemIcon_Skull01.png" path="/pic/"/>
+    <image id="g4ehy" name="ItemIcon_Skull02.png" path="/pic/"/>
+    <image id="g4ehz" name="ItemIcon_Star.png" path="/pic/"/>
+    <image id="g4eh10" name="ItemIcon_Ticket_Blue.png" path="/pic/"/>
+    <image id="g4eh11" name="ItemIcon_Ticket_Yellow.png" path="/pic/"/>
+    <image id="g4eh12" name="ItemIcon_Trophy.png" path="/pic/"/>
+    <image id="g4eh13" name="ItemIcon_Weapon_Axe.png" path="/pic/"/>
+    <image id="g4eh14" name="ItemIcon_Weapon_Bow.png" path="/pic/"/>
+    <image id="g4eh15" name="ItemIcon_Weapon_Hammer.png" path="/pic/"/>
+    <image id="g4eh16" name="ItemIcon_Weapon_Shield.png" path="/pic/"/>
+    <image id="g4eh17" name="ItemIcon_Grain.png" path="/pic/"/>
+    <image id="g4eh18" name="ItemIcon_Gem_Triangle_Yellow.png" path="/pic/"/>
+    <image id="g4eh19" name="ItemIcon_Gem_Triangle_Red.png" path="/pic/"/>
+    <image id="g4eh1a" name="ItemIcon_Gem_Triangle_Purple.png" path="/pic/"/>
+    <image id="g4eh1b" name="ItemIcon_Badge_Crown.png" path="/pic/"/>
+    <image id="g4eh1c" name="ItemIcon_Badge_Energy.png" path="/pic/"/>
+    <image id="g4eh1d" name="ItemIcon_Bag01.png" path="/pic/"/>
+    <image id="g4eh1e" name="ItemIcon_Bag02.png" path="/pic/"/>
+    <image id="g4eh1f" name="ItemIcon_Battery.png" path="/pic/"/>
+    <image id="g4eh1g" name="ItemIcon_Book01_Blue.png" path="/pic/"/>
+    <image id="g4eh1h" name="ItemIcon_Book01_Red.png" path="/pic/"/>
+    <image id="g4eh1i" name="ItemIcon_Book02_Brown.png" path="/pic/"/>
+    <image id="g4eh1j" name="ItemIcon_Book02_Teal.png" path="/pic/"/>
+    <image id="g4eh1k" name="ItemIcon_Coin.png" path="/pic/"/>
+    <image id="g4eh1l" name="ItemIcon_Weapon_Sword.png" path="/pic/"/>
+    <image id="g4eh1m" name="ItemIcon_Crown.png" path="/pic/"/>
+    <image id="g4eh1n" name="ItemIcon_Fox.png" path="/pic/"/>
+    <image id="g4eh1o" name="ItemIcon_Gem_Pentagon_Blue.png" path="/pic/"/>
+    <image id="g4eh1p" name="ItemIcon_Gem_Pentagon_Gray.png" path="/pic/"/>
+    <image id="g4eh1q" name="ItemIcon_Gem_Pentagon_Green.png" path="/pic/"/>
+    <image id="g4eh1r" name="ItemIcon_Gem_Pentagon_Purple.png" path="/pic/"/>
+    <image id="g4eh1s" name="ItemIcon_Gem_Pentagon_Red.png" path="/pic/"/>
+    <image id="g4eh1t" name="ItemIcon_Gem_Pentagon_Yellow.png" path="/pic/"/>
+    <image id="g4eh1u" name="ItemIcon_Gem_Triangle_Blue.png" path="/pic/"/>
+    <image id="g4eh1v" name="ItemIcon_Gem_Triangle_Gray.png" path="/pic/"/>
+    <image id="g4eh1w" name="ItemIcon_Gem_Triangle_Green.png" path="/pic/"/>
+    <image id="g4eh1x" name="ItemIcon_Cup.png" path="/pic/"/>
+    <image id="g4eh1y" name="ItemIcon_Weapon_SwordShield.png" path="/pic/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>

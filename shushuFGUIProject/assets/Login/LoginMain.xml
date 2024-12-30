@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <loader id="n0_egb0" name="bg" xy="0,0" size="1334,750" url="ui://tzpmlwovg4eh5" align="center" vAlign="middle" fill="scaleFree">
+      <relation target="" sidePair="width-width,height-height"/>
+    </loader>
+    <component id="n1_egb0" name="btn_login" src="egb03" fileName="component/btn_login.xml" xy="537,358" size="260,100">
+      <relation target="" sidePair="center-center,middle-middle"/>
+    </component>
+    <loader id="n2_g4eh" name="bg1" xy="64,64" pivot="0.5,0.5" anchor="true" size="128,128" url="ui://tzpmlwovg4eh1l" autoSize="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </loader>
+    <loader id="n3_g4eh" name="n3" xy="0,371" size="369,379" url="ui://9179p8wsg4eh29" autoSize="true">
+      <relation target="" sidePair="left-left,bottom-bottom"/>
+    </loader>
+    <image id="n5_g4eh" name="n5" src="g4eh26" fileName="pic/SampleCharacter_Archer.png" pkg="9179p8ws" xy="904,359" size="430,391" flip="hz">
+      <relation target="" sidePair="right-right,bottom-bottom"/>
+    </image>
+    <text id="n6_g4eh" name="field1" xy="538,687" size="258,63" fontSize="47" color="#ffff00" align="center" vAlign="middle" autoSize="none" text="123">
+      <relation target="" sidePair="center-center"/>
+    </text>
+  </displayList>
+  <transition name="tran_login">
+    <item time="0" type="Icon" target="n2_g4eh" value="ui://tzpmlwovg4eh1l"/>
+    <item time="0" type="XY" target="n2_g4eh" tween="true" startValue="64,64" endValue="667,408" duration="24" label2="changefield"/>
+    <item time="24" type="Icon" target="n2_g4eh" value="ui://tzpmlwovg4eh1l"/>
+    <item time="24" type="Scale" target="n2_g4eh" tween="true" startValue="1,1" endValue="0.8,0.8" duration="6"/>
+    <item time="30" type="Scale" target="n2_g4eh" tween="true" startValue="0.8,0.8" endValue="1,1" duration="6"/>
+    <item time="36" type="Alpha" tween="true" startValue="1" endValue="0" duration="6"/>
+  </transition>
+</component>
