@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="900,40" extention="ProgressBar">
+  <displayList>
+    <graph id="n2_lerj" name="n2" xy="0,0" size="900,40" type="rect" lineSize="0" fillColor="#ff333333"/>
+    <graph id="n3_lerj" name="bar" xy="0,0" size="900,40" type="rect" lineSize="0" fillColor="#ff0099ff"/>
+    <movieclip id="n4_lerj" name="n4" src="lerj23" fileName="anim/anim1.jta" xy="831,-51">
+      <relation target="n3_lerj" sidePair="right-right"/>
+    </movieclip>
+  </displayList>
+  <ProgressBar titleType="valueAndmax"/>
+</component>

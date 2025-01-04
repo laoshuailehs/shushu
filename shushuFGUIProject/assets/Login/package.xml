@@ -69,6 +69,11 @@
     <image id="g4eh1w" name="ItemIcon_Gem_Triangle_Green.png" path="/pic/"/>
     <image id="g4eh1x" name="ItemIcon_Cup.png" path="/pic/"/>
     <image id="g4eh1y" name="ItemIcon_Weapon_SwordShield.png" path="/pic/"/>
+    <component id="lerj20" name="Loding.xml" path="/" exported="true"/>
+    <movieclip id="lerj23" name="anim1.jta" path="/anim/"/>
+    <image id="lerj24" name="Slider_Basic01_Fill_Sky.Png" path="/pic/" scale="9grid" scale9grid="4,36,11,16"/>
+    <image id="lerj25" name="Slider_Basic01_Bg.Png" path="/pic/" scale="9grid" scale9grid="6,33,14,21"/>
+    <component id="lerj26" name="loding1.xml" path="/component/"/>
   </resources>
   <publish name="" genCode="true"/>
 </packageDescription>

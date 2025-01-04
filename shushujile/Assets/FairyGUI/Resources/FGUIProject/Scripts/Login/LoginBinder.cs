@@ -9,6 +9,7 @@ namespace Login
         public static void BindAll()
         {
             UIObjectFactory.SetPackageItemExtension(UI_LoginMain.URL, typeof(UI_LoginMain));
+            UIObjectFactory.SetPackageItemExtension(UI_Loding.URL, typeof(UI_Loding));
         }
     }
 }

@@ -351,6 +351,7 @@
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Base/BaseBinder.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Base/UI_Shushu.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/LoginBinder.cs"
+"Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/UI_Loding.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/UI_LoginMain.cs"
 "Assets/FairyGUI/Scripts/Core/BlendMode.cs"
 "Assets/FairyGUI/Scripts/Core/CaptureCamera.cs"

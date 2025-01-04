@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750">
+  <displayList>
+    <component id="n5_lerj" name="prossing" src="lerj26" fileName="component/loding1.xml" xy="284,369">
+      <ProgressBar value="16" max="100"/>
+    </component>
+    <text id="n6_lerj" name="t1" xy="518,520" size="297,58" fontSize="42" color="#00ff66" align="center" vAlign="middle" autoSize="none" text="10/100"/>
+  </displayList>
+</component>

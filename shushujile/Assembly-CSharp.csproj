@@ -207,6 +207,7 @@
      <Compile Include="Assets\FairyGUI\Scripts\Extensions\TextMeshPro\TMPFont.cs" />
      <Compile Include="Assets\FairyGUI\Scripts\Gesture\LongPressGesture.cs" />
      <Compile Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Base\BaseBinder.cs" />
+     <Compile Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Login\UI_Loding.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\FairyGUI\Resources\FGUIProject\Scripts" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
