@@ -48,6 +48,7 @@
      <Compile Include="Assets\FairyGUI\Scripts\UI\PackageItem.cs" />
      <Compile Include="Assets\FairyGUI\Scripts\Tween\TweenManager.cs" />
      <Compile Include="Assets\FairyGUI\Scripts\Core\Stats.cs" />
+     <Compile Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Login\UI_Loding.cs" />
      <Compile Include="Assets\FairyGUI\Scripts\Core\HitTest\HitTestContext.cs" />
      <Compile Include="Assets\FairyGUI\Scripts\Core\NAudioClip.cs" />
      <Compile Include="Assets\FairyGUI\Scripts\Tween\EaseType.cs" />
@@ -207,7 +208,9 @@
      <Compile Include="Assets\FairyGUI\Scripts\Extensions\TextMeshPro\TMPFont.cs" />
      <Compile Include="Assets\FairyGUI\Scripts\Gesture\LongPressGesture.cs" />
      <Compile Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Base\BaseBinder.cs" />
-     <Compile Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Login\UI_Loding.cs" />
+     <Compile Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Hall\HallBinder.cs" />
+     <Compile Include="Assets\Scripts\HallPanel\HallPanelUI.cs" />
+     <Compile Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Hall\UI_HallMain.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\FairyGUI\Resources\FGUIProject\Scripts" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -224,6 +227,7 @@
      <Folder Include="Assets\AddRes\Layer Lab\GUI-CasualFantasy\Prefabs\Prefabs_Component_Frames" />
      <Folder Include="Assets\AddRes\Layer Lab\GUI-CasualFantasy\ResourcesData\Sprites\Components\Label" />
      <Folder Include="Assets\AddRes\Layer Lab\GUI-CasualFantasy" />
+     <Folder Include="Assets\FairyGUI\Resources\FGUIProject\Scripts\Hall" />
      <Folder Include="Assets\FairyGUI\Scripts\UI" />
      <Folder Include="Assets\FairyGUI\Scripts\UI\Gears" />
      <Folder Include="Assets\AddRes\Layer Lab\GUI-CasualFantasy\ResourcesData" />
@@ -270,6 +274,7 @@
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\FairyGUI\Resources\Shaders\AddOn\FairyGUI-BlurFilter.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
+     <Folder Include="Assets\Scripts\HallPanel" />
      <Folder Include="Assets\AddRes\Layer Lab\GUI-CasualFantasy\ResourcesData\Fonts" />
      <Folder Include="Assets\AddRes\Layer Lab\GUI-CasualFantasy\ResourcesData\Sprites\Components\Icon_ItemIcons\128" />
      <Folder Include="Assets\Scripts\LoginUIPanel" />

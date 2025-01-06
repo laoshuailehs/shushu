@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1334,750" designImage="ui://tzpmlwovg4eh8" designImageOffsetX="-648" designImageOffsetY="-327">
+  <displayList>
+    <image id="n3_y7hr" name="n3" src="y7hr3" fileName="pic/BasicFrame_SquareOutline01_Demo.png" xy="0,17" size="260,66" group="n15_y7hr"/>
+    <image id="n0_y7hr" name="n0" src="y7hr1" fileName="pic/ProfileFrame01_Demo.png" xy="0,0" size="83,83" group="n15_y7hr"/>
+    <loader id="n2_y7hr" name="avator" xy="13,13" size="57,57" group="n15_y7hr" url="ui://1yy752bry7hr2" fill="scale" shrinkOnly="true"/>
+    <text id="n4_y7hr" name="playername" xy="96,23" size="146,25" group="n15_y7hr" fontSize="16" color="#ffffff" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" shadowColor="#000000" shadowOffset="1,2" text="Player"/>
+    <image id="n9_y7hr" name="n9" src="y7hr4" fileName="pic/Slider_Diagonal37_Demo_Icon.png" xy="96,49" size="42,32" group="n15_y7hr"/>
+    <text id="n10_y7hr" name="level" xy="104,53" size="26,24" group="n15_y7hr" fontSize="16" color="#ffffff" align="center" vAlign="middle" autoSize="none" bold="true" strokeColor="#000000" text="3"/>
+    <component id="n12_y7hr" name="exp" src="y7hr5" fileName="component/userloding.xml" xy="132,57" group="n15_y7hr">
+      <ProgressBar value="35" max="100"/>
+    </component>
+    <group id="n15_y7hr" name="n15" xy="0,0" size="260,83" advanced="true">
+      <relation target="" sidePair="left-left,top-top"/>
+    </group>
+    <graph id="n14_y7hr" name="bg_uselu" xy="0,264" size="1334,373" type="rect" lineSize="0" fillColor="#00ffffff"/>
+    <loader id="n13_y7hr" name="player" xy="526,426" size="146,143" url="ui://1yy752bry7hr2" fill="scale"/>
+  </displayList>
+</component>

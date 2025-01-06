@@ -350,6 +350,8 @@
 "Assets/AddRes/Layer Lab/Scripts/PanelView.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Base/BaseBinder.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Base/UI_Shushu.cs"
+"Assets/FairyGUI/Resources/FGUIProject/Scripts/Hall/HallBinder.cs"
+"Assets/FairyGUI/Resources/FGUIProject/Scripts/Hall/UI_HallMain.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/LoginBinder.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/UI_Loding.cs"
 "Assets/FairyGUI/Resources/FGUIProject/Scripts/Login/UI_LoginMain.cs"
@@ -511,6 +513,7 @@
 "Assets/FairyGUI/Scripts/Utils/XMLList.cs"
 "Assets/FairyGUI/Scripts/Utils/XMLUtils.cs"
 "Assets/FairyGUI/Scripts/Utils/ZipReader.cs"
+"Assets/Scripts/HallPanel/HallPanelUI.cs"
 "Assets/Scripts/LoginUIPanel/LoginUI.cs"
 "Assets/Scripts/ShushuUIPanel/ShushuUI.cs"
 -langversion:9.0

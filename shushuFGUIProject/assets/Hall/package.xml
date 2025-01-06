@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="1yy752br">
+  <resources>
+    <component id="y7hr0" name="HallMain.xml" path="/" exported="true"/>
+    <image id="y7hr1" name="ProfileFrame01_Demo.png" path="/pic/" scale="9grid" scale9grid="13,13,12,12"/>
+    <image id="y7hr2" name="SampleCharacter_Knight01.png" path="/pic/"/>
+    <image id="y7hr3" name="BasicFrame_SquareOutline01_Demo.png" path="/pic/" scale="9grid" scale9grid="12,12,22,24"/>
+    <image id="y7hr4" name="Slider_Diagonal37_Demo_Icon.png" path="/pic/" scale="9grid" scale9grid="25,25,14,17"/>
+    <component id="y7hr5" name="userloding.xml" path="/component/"/>
+  </resources>
+  <publish name="" genCode="true"/>
+</packageDescription>
